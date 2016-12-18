@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "contribute",
+    "currentPage": "index.html",
     "name": "songhaisguild.com",
     "theme": {
       "name": "mobirise3",
@@ -21,17 +21,13 @@
       }
     },
     "versionFirst": "3.10",
-    "uniqCompNum": 80,
-    "versionPublish": "3.10",
+    "uniqCompNum": 82,
+    "versionPublish": "3.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "publishFtpPath": "public_html",
-    "publishType": "github",
-    "ftpLocation": "ftp://frenzonearth@yahoo.com@ftp.songhaisguild.com:21",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "",
-    "publishPath": "file:///D:/Businesses/Ethiopia/Website"
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -124,7 +120,7 @@
               "src": "@PROJECT_PATH@/assets/images/africa-151640-960-720-125x128-16.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -135,7 +131,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SONGHAI'S GUILD</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">HOW TO CONTRIBUTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">REGISTER</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contribute.html\">HOW TO CONTRIBUTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Register.html\">REGISTER</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -182,11 +178,6 @@
             "Theme"
           ],
           "_name": "slider",
-          "_styles": {
-            "H2": {
-              "font-size": "36px"
-            }
-          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -195,55 +186,47 @@
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/brenton-currie-robotic-packaging-system-multi-robot-multi-line-2000x1125-69.jpg",
+                "image": "@PROJECT_PATH@/assets/images/maxresdefault-2000x1125-88.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "overlayOpacity": "0.7",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "INDUSTRIAL DEVELOPMENT",
+                "title": "AGRICULTURAL DEVELOPMENT",
                 "showText": true,
-                "text": "Developing factories for small and large scale production of goods and related services..",
+                "text": "Putting in place the proper conditions for sustainable planting, harvesting and processing food crops for human consumption. ",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/maxresdefault-2000x1125-70.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/brenton-currie-robotic-packaging-system-multi-robot-multi-line-2000x1125-19.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "left",
                 "showTitle": true,
-                "title": "AGRICULTURAL DEVELOPMENT",
+                "title": "INDUSTRIAL DEVELOPMENT",
                 "showText": true,
-                "text": "Putting in place the proper conditions for sustainable planting, harvesting and processing food crops for human consumption. ",
+                "text": "Developing factories for small and large scale production of goods and related services.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/6a0120a7fc3be9970b01b7c742867a970b-1-2000x1355-58.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "overlayOpacity": "0.6",
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "ENERGY DEVELOPMENT",
-                "showText": true,
-                "text": "Initiatives focused on creating sustainable and sufficient energy sources that meets the needs of society.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": true,
             "bgColor": "#fff",
             "showBullets": true
           },
-          "_anchor": "slider-1s",
-          "articleLayout": false
+          "_anchor": "slider-29",
+          "articleLayout": false,
+          "_styles": {
+            "H2": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "60px"
+            }
+          }
         },
         {
           "_tags": [
@@ -252,9 +235,9 @@
           "_name": "slider",
           "_styles": {
             "H2": {
-              "font-size": "36px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "60px",
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
               "text-align": "left"
             },
             "P": {
@@ -485,7 +468,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SONGHAI'S GUILD</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">HOW TO CONTRIBUTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">REGISTER</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contribute.html\">HOW TO CONTRIBUTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Register.html\">REGISTER</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -545,7 +528,7 @@
         }
       ]
     },
-    "Register": {
+    "Register.html": {
       "settings": {},
       "components": [
         {
@@ -664,7 +647,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SONGHAI'S GUILD</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">HOW TO CONTRIBUTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">REGISTER</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contribute.html\">HOW TO CONTRIBUTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Register.html\">REGISTER</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -900,7 +883,7 @@
         }
       ]
     },
-    "contribute": {
+    "Contribute.html": {
       "settings": {},
       "components": [
         {
@@ -1019,7 +1002,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SONGHAI'S GUILD</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page4.html\">HOW TO CONTRIBUTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\">REGISTER</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contribute.html\">HOW TO CONTRIBUTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Register.html\">REGISTER</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1028,6 +1011,11 @@
             },
             ".lead": {
               "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -1204,6 +1192,9 @@
             },
             ".lead": {
               "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_tags": [
