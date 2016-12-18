@@ -184,7 +184,7 @@
           "_name": "slider",
           "_styles": {
             "H2": {
-              "font-size": "46px"
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -252,7 +252,7 @@
           "_name": "slider",
           "_styles": {
             "H2": {
-              "font-size": "48px",
+              "font-size": "36px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "text-align": "left"
