@@ -937,7 +937,7 @@
           "form": {
             "action": "songhaisguild@gmail.com",
             "alerts": {
-              "success": "Your information is confidential unless otherwise indicated. Thanks for filling out our form!  "
+              "success": "You're registered! Thanks for filling out our form!  "
             },
             "fields": {
               "name": {
