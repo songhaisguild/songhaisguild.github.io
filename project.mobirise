@@ -171,7 +171,7 @@
           },
           "title": "<br>SONGHAI'S GUILD",
           "text": "<b>The African Diaspora Skills &amp; Trades Registry</b>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">REGISTER</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Register.html\" data-toolbar=\"-mbrBtnMove\">REGISTER</a>"
         },
         {
           "_styles": {
