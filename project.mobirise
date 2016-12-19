@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10",
-    "uniqCompNum": 82,
+    "uniqCompNum": 86,
     "versionPublish": "3.10.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -131,7 +131,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SONGHAI'S GUILD</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contribute.html\">HOW TO CONTRIBUTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Register.html\">REGISTER</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contribute.html\">HOW TO CONTRIBUTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Register.html\">REGISTER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">INVESTMENT PROJECTS (COMING SOON)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -174,10 +174,52 @@
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">REGISTER</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2d",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/south-africa-578-4-2000x1250-80.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showCaption": true
+          },
+          "title": "WE MUST BUILD AGAIN...",
+          "caption": "<p>Let us honor our Ancestors by reconnecting, building, and providing a future for our descendents.</p>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "80px"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -219,14 +261,54 @@
             "showBullets": true
           },
           "_anchor": "slider-29",
-          "articleLayout": false,
+          "articleLayout": false
+        },
+        {
           "_styles": {
-            "H2": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "60px"
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "36px",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0",
+              "text-align": "left"
             }
-          }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-2c",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "INTERESTED IN INVESTING?",
+          "subtitle": "Keep informed of our Investment Projects",
+          "form": {
+            "action": "songhaisguild@gmail.com",
+            "alerts": {
+              "success": "Thanks you, we will be in touch."
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">INFORM ME</a>"
         },
         {
           "_tags": [
@@ -308,7 +390,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 SONGHAISGUILD.COM"
+          "text": "Copyright (c) 2017 songhaisguild.com"
         }
       ]
     },
@@ -468,7 +550,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SONGHAI'S GUILD</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contribute.html\">HOW TO CONTRIBUTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Register.html\">REGISTER</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contribute.html\">HOW TO CONTRIBUTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Register.html\">REGISTER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">INVESTMENT PROJECTS (COMING SOON)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -551,7 +633,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 SONGHAISGUILD.COM"
+          "text": "Copyright (c) 2017 songhaisguild.com"
         },
         {
           "_styles": {
@@ -647,7 +729,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SONGHAI'S GUILD</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contribute.html\">HOW TO CONTRIBUTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Register.html\">REGISTER</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contribute.html\">HOW TO CONTRIBUTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Register.html\">REGISTER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">INVESTMENT PROJECTS (COMING SOON)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -851,7 +933,7 @@
             "showSubTitle": true
           },
           "title": "SKILLS &amp; TRADES FORM",
-          "subtitle": "<span style=\"font-style: normal;\">In the Skills &amp; Trade section below please share with us the following:</span><br><span style=\"font-style: normal;\">1. Which Sector or Industry do you contribute to?</span><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">2. List your Profession(s)?</span><br><span style=\"font-style: normal;\">3. List your Skill(s) and/or Trade(s).</span><br><br>",
+          "subtitle": "<span style=\"font-style: normal;\">In the Skills &amp; Trade section below please share with us the following:</span><br><span style=\"font-style: normal;\">1. Which Sector or Industry do you contribute to?</span><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">2. List your Profession(s)?</span><br><span style=\"font-style: normal;\">3. List your Skill(s) and/or Trade(s).</span><br>***The information you provide is confidential***",
           "form": {
             "action": "songhaisguild@gmail.com",
             "alerts": {
@@ -906,7 +988,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 SONGHAISGUILD.COM"
+          "text": "Copyright (c) 2017 songhaisguild.com"
         },
         {
           "_styles": {
@@ -1002,7 +1084,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SONGHAI'S GUILD</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contribute.html\">HOW TO CONTRIBUTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Register.html\">REGISTER</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">MORE INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Contribute.html\">HOW TO CONTRIBUTE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Register.html\">REGISTER</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">INVESTMENT PROJECTS (COMING SOON)</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1042,7 +1124,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "HOW CAN I CONTRIBUTE?",
+          "title": "DIFFERENT WAYS TO CONTRIBUTE",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -1221,7 +1303,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "JOIN US, ASK US.",
+          "title": "JOIN US, HELP US, ASK US.",
           "text": "Send us an email: songhaisguild@gmail.com",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         }

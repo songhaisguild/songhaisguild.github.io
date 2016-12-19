@@ -494,9 +494,25 @@ h6,
   font-family: 'Lora', serif;
   color: #c0a375;
 }
+#content5-2d .mbr-section-title,
+#content5-2d p {
+  color: #fff;
+}
+#content5-2d .mbr-section-title {
+  font-size: 36px;
+}
 #slider-29 H2 {
   font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 60px;
+  font-size: 80px;
+}
+#form2-2c .mbr-section-title {
+  color: #fff;
+  font-size: 36px;
+  text-align: left;
+}
+#form2-2c .mbr-section-subtitle {
+  color: #a0a0a0;
+  text-align: left;
 }
 #slider-1z H2 {
   font-size: 60px;
