@@ -933,7 +933,7 @@
             "showSubTitle": true
           },
           "title": "SKILLS &amp; TRADES FORM",
-          "subtitle": "<span style=\"font-style: normal;\">In the Skills &amp; Trade section below please share with us the following:</span><br><span style=\"font-style: normal;\">1. Which Sector or Industry do you contribute to?</span><span style=\"font-style: normal;\"><br></span><span style=\"font-style: normal;\">2. List your Profession(s)?</span><br><span style=\"font-style: normal;\">3. List your Skill(s) and/or Trade(s).</span><br>***The information you provide is confidential***",
+          "subtitle": "<span style=\"font-style: normal;\">In the Skills &amp; Trade section below please share with us the following:</span><br><span style=\"font-style: normal;\">Profession(s) or Title(s) / Skill(s)</span><br><span style=\"font-style: normal;\">&nbsp;</span>***The information you provide is confidential***",
           "form": {
             "action": "songhaisguild@gmail.com",
             "alerts": {
