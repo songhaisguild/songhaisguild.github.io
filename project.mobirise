@@ -180,6 +180,9 @@
             },
             ".mbr-section-title": {
               "font-size": "36px"
+            },
+            "DIV": {
+              "color": "#efefef"
             }
           },
           "_tags": [
@@ -205,8 +208,8 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "WE MUST BUILD AGAIN...",
-          "caption": "<p>Let us honor our Ancestors by reconnecting, building, and providing a future for our descendents.</p>"
+          "title": "WE ARE LOOKING FOR TRAINERS!",
+          "caption": "If you have skills &amp; expertise in any area of Manufacturing or Agribusiness please contact us at songhaisguild@gmail.com"
         },
         {
           "_tags": [
@@ -343,7 +346,7 @@
                 "showTitle": true,
                 "title": "OUR MISSION&nbsp;",
                 "showText": true,
-                "text": "To organize the talents from the African World for economic development, security &amp; prosperity.",
+                "text": "To organize the talents from the African World toward economic development, security &amp; prosperity.",
                 "showButtons": false,
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
@@ -738,7 +741,7 @@
             },
             "H3": {
               "font-size": "36px",
-              "color": "#232323"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -749,7 +752,7 @@
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "2",
-            "bgColor": "#cccccc",
+            "bgColor": "#764727",
             "showMeta": true
           },
           "title": "WHICH SECTORS AND INDUSTRIES<br>DO YOU CONTRIBUTE TO?<br>",
@@ -762,7 +765,11 @@
           "_name": "features3",
           "_styles": {
             "P": {
-              "font-size": "14px"
+              "font-size": "14px",
+              "color": "#000000"
+            },
+            "H4": {
+              "color": "#000000"
             }
           },
           "_anchor": "features3-1j",
@@ -772,7 +779,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "bgColor": "#764727",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -897,23 +904,23 @@
             ".mbr-section-title": {
               "text-align": "center",
               "font-size": "36px",
-              "color": "#232323"
+              "color": "#000000"
             },
             "SMALL": {
-              "color": "#b8312f"
+              "color": "#2b0680"
             },
             "SPAN": {
-              "color": "#232323",
+              "color": "#000000",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "text-align": "left",
-              "font-size": "16px"
+              "font-size": "22px"
             },
             ".btn": {
               "font-size": "14px"
             },
             "B": {
-              "color": "#ffffff"
+              "color": "#2b0680"
             }
           },
           "_anchor": "form1-19",
@@ -924,7 +931,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/1300357241-cmsmcnw9-2000x1500-9.jpg",
-            "bgColor": "#c9c9c9",
+            "bgColor": "#764727",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": "0.5",
@@ -933,7 +940,7 @@
             "showSubTitle": true
           },
           "title": "SKILLS &amp; TRADES FORM",
-          "subtitle": "<span style=\"font-style: normal;\">In the Skills &amp; Trade section below please share with us the following:</span><br><span style=\"font-style: normal;\">Profession(s) or Title(s) / Skill(s)</span><br><span style=\"font-style: normal;\">&nbsp;</span>***The information you provide is confidential***",
+          "subtitle": "<span style=\"font-style: normal;\">In the Skills &amp; Trade section below please share with us the following:</span><br><span style=\"font-style: normal;\">Profession(s) or Title(s) / Skill(s) or Trade(s)</span><br><span style=\"font-style: normal;\">&nbsp;</span><b>***The information you provide is confidential***</b>",
           "form": {
             "action": "songhaisguild@gmail.com",
             "alerts": {

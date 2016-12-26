@@ -501,6 +501,9 @@ h6,
 #content5-2d .mbr-section-title {
   font-size: 36px;
 }
+#content5-2d DIV {
+  color: #efefef;
+}
 #slider-29 H2 {
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 80px;
@@ -688,10 +691,14 @@ h6,
 }
 #header3-1i H3 {
   font-size: 36px;
-  color: #232323;
+  color: #000000;
 }
 #features3-1j P {
   font-size: 14px;
+  color: #000000;
+}
+#features3-1j H4 {
+  color: #000000;
 }
 #form1-19 .form-control-label {
   color: #000000;
@@ -699,22 +706,22 @@ h6,
 #form1-19 .mbr-section-title {
   text-align: center;
   font-size: 36px;
-  color: #232323;
+  color: #000000;
 }
 #form1-19 SMALL {
-  color: #b8312f;
+  color: #2b0680;
 }
 #form1-19 SPAN {
-  color: #232323;
+  color: #000000;
   font-family: 'Raleway', sans-serif;
   text-align: left;
-  font-size: 16px;
+  font-size: 22px;
 }
 #form1-19 .btn {
   font-size: 14px;
 }
 #form1-19 B {
-  color: #ffffff;
+  color: #2b0680;
 }
 
 
