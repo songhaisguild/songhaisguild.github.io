@@ -182,7 +182,8 @@
               "font-size": "36px"
             },
             "DIV": {
-              "color": "#efefef"
+              "color": "#efefef",
+              "font-size": "20px"
             }
           },
           "_tags": [
@@ -208,8 +209,8 @@
             "showTitle": true,
             "showCaption": true
           },
-          "title": "WE ARE LOOKING FOR TRAINERS!",
-          "caption": "If you have skills &amp; expertise in any area of Manufacturing or Agribusiness please contact us at songhaisguild@gmail.com"
+          "title": "FROM INDIVIDUALISM TO COLLECTIVISM!",
+          "caption": "ORGANIZE, TRUST, BUILD, PROSPER...."
         },
         {
           "_tags": [
